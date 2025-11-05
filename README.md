@@ -4,7 +4,7 @@
 ## 📄 **Resumo Técnico da POC (para anexar no trabalho)**
 
 ---
-
+### Integrantes: 
 ### **Título:** POC – Blockchain como Sistema Distribuído  
 
 ### **Objetivo:**  
@@ -75,5 +75,3 @@ Com pequenas expansões, esse modelo pode evoluir para uma blockchain funcional 
 Blockchain · Sistemas Distribuídos · Comunicação HTTP · WebSocket · Latência · Consistência  
 
 ---
-
-Se quiser, posso agora gerar pra você **os arquivos reais (README.md + resumo em .docx)** prontos pra enviar ou subir no repositório — quer que eu gere esses arquivos e te disponibilize pra download?
