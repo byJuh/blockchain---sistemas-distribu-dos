@@ -4,7 +4,16 @@
 ## 📄 **Resumo Técnico da POC (para anexar no trabalho)**
 
 ---
-### Integrantes: 
+
+## 👥 Integrantes
+- Gabriel Carlos Silva – RA00325868  
+- João Pedro Figols Neco – RA00319473  
+- Júlia Gachido Schmidt – RA00319540  
+- Leonardo Fajardo Grupioni – RA00319703  
+- Mateus Neves Erédia – RA00318954  
+- Pedro França de Godoi – RA00318693
+
+---
 ### **Título:** POC – Blockchain como Sistema Distribuído  
 
 ### **Objetivo:**  
