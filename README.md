@@ -1,7 +1,7 @@
 
 ---
 
-## 📄 **Resumo Técnico da POC (para anexar no trabalho)**
+## 📄 **Resumo Técnico da POC**
 
 ---
 
